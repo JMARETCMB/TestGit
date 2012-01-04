@@ -14,6 +14,7 @@
         <asp:HyperLink ID="hlGoogle" runat="server" NavigateUrl="http://www.googl.be">google it!</asp:HyperLink>
     </div>
     <asp:Button ID="Button1" runat="server" Text="btnTest" />
+    <asp:Button ID="Button2" runat="server" Text="testje" />
     </form>
 </body>
 </html>
