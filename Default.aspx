@@ -11,6 +11,7 @@
     <div>
      <h1> dag willem!</h1>
     </div>
+    <asp:Button ID="Button1" runat="server" Text="btnTest" />
     </form>
 </body>
 </html>
