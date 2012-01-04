@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
     <div>
      <h1> dag willem!</h1>
+     Testje
+        <asp:HyperLink ID="hlGoogle" runat="server" NavigateUrl="http://www.googl.be">google it!</asp:HyperLink>
     </div>
     <asp:Button ID="Button1" runat="server" Text="btnTest" />
     </form>
